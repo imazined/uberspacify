@@ -9,7 +9,7 @@ All the magic is built into a couple nice Capistrano scripts. Uberspacify will c
 Add this line to your application's `Gemfile`:
 
 ```ruby
-gem 'uberspacify'
+gem 'uberspacify', :git => 'git@github.com:imazined/uberspacify.git'
 ```
 
 And then execute:
